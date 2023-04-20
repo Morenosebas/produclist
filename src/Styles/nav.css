@@ -1,0 +1,11 @@
+.navLinks{
+    color: #050505;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 0 1rem;
+    transition: all 0.3s ease-in-out;
+}
+.navLinks:hover{
+    color: #15bb5a;
+}
